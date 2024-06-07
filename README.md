@@ -75,15 +75,15 @@ NEXTAUTH_SECRET=
 ## Prompts Page 📑
 
 
-🔹 Homepage
+🟠 Homepage
 ![prompt-1](https://github.com/priyyasi/project_promptopia/assets/67642788/94992908-c0fb-459b-acff-1aa7178b5751)
 
 
-🔹 Signed In
+◼️ Signed In
 ![prompt-2](https://github.com/priyyasi/project_promptopia/assets/67642788/0b1cf4e0-8acd-40f3-9f0a-7631b4c61554)
 
 
-🔹 Tag filter
+💎 Tag filter
 ![prompt-3](https://github.com/priyyasi/project_promptopia/assets/67642788/d6ebc627-7873-42cc-8f29-30124b7d9505)
 
 
