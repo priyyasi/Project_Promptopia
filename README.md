@@ -75,27 +75,27 @@ NEXTAUTH_SECRET=
 ## Prompts Page 📑
 
 
-🔹Homepage
+🔹 Homepage
 ![prompt-1](https://github.com/priyyasi/project_promptopia/assets/67642788/94992908-c0fb-459b-acff-1aa7178b5751)
 
 
-🔹Signed In
+🔹 Signed In
 ![prompt-2](https://github.com/priyyasi/project_promptopia/assets/67642788/0b1cf4e0-8acd-40f3-9f0a-7631b4c61554)
 
 
-🔹Tag filter
+🔹 Tag filter
 ![prompt-3](https://github.com/priyyasi/project_promptopia/assets/67642788/d6ebc627-7873-42cc-8f29-30124b7d9505)
 
 
-🔹Create Post
+🔹 Create Post
 ![prompt-4](https://github.com/priyyasi/project_promptopia/assets/67642788/ffd123b4-9111-4e0d-aac8-a481ae46b379)
 
 
-🔹Profile Page
+🔹 Profile Page
 ![prompt-5](https://github.com/priyyasi/project_promptopia/assets/67642788/cbc403a6-31e6-4175-b203-e694a1512a20)
 
 
-🔹Edit Post
+🔹 Edit Post
 ![prompt-6](https://github.com/priyyasi/project_promptopia/assets/67642788/6ec15f10-3ad5-4d8a-bbe6-65887a93cb7e)
 
 
